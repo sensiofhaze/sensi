@@ -1,0 +1,127 @@
+.header h1{
+	position:absolute;
+	top: 34vw;
+	left: 22vw;
+	text-align:center;
+	color: white;
+	font-family: 'fantasy', sans-serif; 
+	font-size: 9vw;
+	line-height: 90%;
+	margin: 0;
+}
+.header p{
+	position:absolute;
+	top: 55vw;
+	left: 1vw;
+	margin:0;
+	width:100vw;
+	text-align:center;
+	color: white;
+	letter-spacing: 0.75em;
+	font-family: 'Andale Mono', monospace;
+	font-size: 1.3vw;
+}
+.header a{
+	text-align:center;
+	color: white;
+	font-family: 'fantasy', sans-serif;
+	position: absolute;
+	top: 60vw;
+	left: 46vw;
+	border: 1vw double black; 
+	border-radius: 5px;
+	background: #000;
+	font-family: 'Times New Roman', Times, serif; 
+	font-size: 1vw;
+	letter-spacing: 0.2em;
+	text-decoration: none;
+}
+.nav .menu {
+	display: inline-block;
+	width: 101vw;
+	height: 6vw;
+	background-color: black;
+	position: absolute;
+	top: 99vw;
+}
+.nav li {
+	color: white;
+	list-style-type: none;
+	float: left;
+	font-size: 1.5vw;
+	margin-left: 2vw;
+	padding: 0.59vw;
+}
+.nav li:hover {
+	background: dodgerblue;
+}
+
+.menu a {
+	text-decoration: none;
+	font-family: sans-serif;
+	color: white;
+	display: inline-block;
+	padding: 30px 20px;
+}
+.main {
+	margin-top:13vw;
+	padding-left: 20vw;
+	padding-bottom: 5vw;
+}
+.main h2{
+	position:absolute;
+	top: 110vw;
+	left: 35vw;
+	font-family: 'fantasy', sans-serif; 
+	font-size: 1.5vw;
+}
+.main p{
+	position:absolute;
+	top: 113vw;
+	left: 35vw;
+	font-family: serif; 
+	font-size: 0.9vw;
+}
+.jumbotron h2{
+	position:absolute;
+	top:137vw;
+	right: 12vw;
+	color: white;
+	font-family: 'fantasy', sans-serif; 
+	font-size: 2vw;
+	line-height: 90%;
+	margin: 0;
+}
+.jumbotron p{
+	position:absolute;
+	top: 140.5vw;
+	right: 12vw;
+	color: white;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 1.2vw;
+}
+.jumbotron a{
+	text-align:center;
+	color: white;
+	font-family: 'fantasy', sans-serif;
+	position: absolute;
+	top: 144vw;
+	right: 12vw;
+	border: 0.8vw double #00BFFF; 
+	background: #00BFFF;
+	font-family: 'Times New Roman', Times, serif; 
+	font-size: 1vw;
+	letter-spacing: 0.4em;
+	text-decoration: none;
+}
+footer{
+	margin-top: -1vw;
+	padding-top:3vw;
+	padding-left:10vw;
+	color:white;
+	background: black;
+	width: 91vw;
+	height:5vw;
+	font-family: 'Times New Roman', Times, serif; 
+	font-size: 0.9vw;
+}
