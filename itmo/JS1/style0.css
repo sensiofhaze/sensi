@@ -1,0 +1,56 @@
+#id0{
+    width: 70px;
+    height: auto;
+}
+#id1{
+    width: 60px;
+    height: auto;
+}
+#id2{
+    width: 80px;
+    height: auto;
+}
+input{
+margin: 5px;
+width: 180px;
+box-sizing: border-box;
+}
+button{
+padding: 8px 20px 7px 30px;
+margin: 5px;
+font-style: oblique;
+font-family: fantasy;
+color: blue;
+border-radius: 20px;
+background-repeat: no-repeat;
+background-size: 25px;
+background-position: 5px center;
+}
+button:hover {
+    background-color: rgb(216, 89, 89);
+}
+.class3:hover{
+    background-color: rgb(216, 89, 89);
+}
+
+.class1{
+    background-image: url("anubis.png");
+}
+.class2{
+    background-image: url("cow.png");
+}
+.class3{
+        background-image: url("rat.png");
+        padding: 8px 20px 7px 30px;
+        margin: 5px;
+        font-style: oblique;
+        font-family: fantasy;
+        color: blue;
+        border-radius: 20px;
+        background-repeat: no-repeat;
+        background-size: 25px;
+        background-position: 5px center;
+}
+.class4{
+    background-image: url("fire.png");
+}
